@@ -28,16 +28,4 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-### A little more about me
-
-```javascript
-const Jeong = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
 ___
